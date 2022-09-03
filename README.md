@@ -9,7 +9,7 @@ MATLAB具有豐富的函式庫，MATLAB Optimization Toolbox中之fmincon函式�
 
 ## 此程式如何使用
 下載homework檔案夾，並於MATLAB中開啟此檔案夾\
-將每個.m檔都開啟之後，執行main.m檔，從workspace中可以獲得目標函數最佳值favl以及最佳解x
+將每個.m檔都開啟之後，執行main.m檔，從workspace中可以獲得目標函數最佳值 favl 以及最佳解 x
 
 ## 若題目更動後可以如何更改程式
 欲更動
